@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+
+:root{ 
+    --cinza: #d6d2d2ff;
+    --roxo-claro: #f1e4f3ff;
+    --rosa: #f4bbd3ff;
+    --rosa-persa: #f686bdff;
+    --rosa-forte:#fe5d9f
+     
+    --texto: " ;
+    --titulo: "Arizonia", cursive;
+}
+
+body{ 
+    background-color: var(--rosa);
+    font-family: var(--titulo);
+}
